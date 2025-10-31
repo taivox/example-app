@@ -13,7 +13,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: nginx.pri-net-route53.infralib.entigo.io
+    - host: nginx.biz-net-route53.infralib.entigo.io
       http:
         paths:
           - path: /
